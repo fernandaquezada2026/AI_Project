@@ -67,12 +67,11 @@ Finalmente, utilicé la opción Sync Changes de Visual Studio Code para subir lo
 
 En esta sección se incorporaron capturas de pantalla que muestran las principales etapas del proyecto:
 
-- Creación del repositorio en GitHub.
-- Configuración del entorno de desarrollo.
-- Generación del código con GitHub Copilot.
-- Ejecución del sistema de recomendaciones.
-- Realización del Commit y Push.
-- Archivos publicados en GitHub.
+-Creación del repositorio en GitHub.
+
+-Desarrollo del código del sistema de recomendaciones con GitHub Copilot.
+
+-Ejecución y prueba del sistema de recomendaciones.
 
 ## 9. Conclusión
 
