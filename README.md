@@ -65,7 +65,7 @@ Finalmente, utilicé la opción Sync Changes de Visual Studio Code para subir lo
 
 ## 8. Evidencias del proceso
 
-En esta sección se incorporarán capturas de pantalla que muestran las principales etapas del proyecto:
+En esta sección se incorporaron capturas de pantalla que muestran las principales etapas del proyecto:
 
 - Creación del repositorio en GitHub.
 - Configuración del entorno de desarrollo.
